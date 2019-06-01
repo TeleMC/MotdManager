@@ -1,0 +1,12 @@
+name: MotdManager
+main: MotdManager\MotdManager
+author: TeleMC
+version: 1.0.0
+api:
+  - 3.2.0
+  - 3.3.0
+  - 4.0.0
+commands:
+  motd:
+    description: 서버 MOTD 관련 명령어입니다.
+    
